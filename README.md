@@ -1,4 +1,4 @@
-# Arduino-talking-GPD-with-WT588D--U32M
+# Arduino-talking-GPS-with-WT588D--U32M
 The third in a series of talking instruments for the visually impaired.
 
 The WTD588D project file now contains high quality speech for a wide range of measuring instrument projects. It is part of a series of projects aimed at the Visually Impared. 
